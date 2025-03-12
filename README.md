@@ -1,1 +1,1 @@
-# laravel-api-app
+This is a **Laravel API** project that allows users to **register**, **log in**, and **manage posts**. It supports standard **CRUD operations** for posts, including creating, editing, and deleting posts. The API uses **JWT (JSON Web Token)** for authentication.
